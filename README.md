@@ -49,16 +49,16 @@ Currently, I'm working on personal projects, experimenting with full-stack archi
 ## 🚀 Projects I’ve Worked On
 
 ### 🔗 [Circle App](https://github.com/fitrafakhri49/circle-app)
-**Description:** A social networking mobile app built with React Native and Expo, allowing users to connect, share posts, and interact in a circle-based community.
+**Description:** A social networking mobile app built with React, Express, Socket.io, and Postgresql allowing users to connect, share posts, and interact in a circle-based community in real-time.
 
 ### 🔗 [Quick Career Coach App](https://github.com/fitrafakhri49/Quick_Career_Coach_App)
-**Description:** Mobile app providing career guidance and interview tips. Built with React Native, Node.js, and Supabase for authentication and data management.
+**Description:** Web app providing career guidance Skill Gap Analysis and mock interview. Built with Next.JS, Express.js,Supabase and Gemini AI.
 
 ### 🔗 [FitTracker](https://github.com/fitrafakhri49/FitTracker)
-**Description:** A fitness tracking application to monitor workouts, calories, and progress. Developed using React Native, Expo, and integrated with Firebase for real-time data.
+**Description:** A fitness tracking application to monitor workouts, calories, and progress. Developed using React Native, Expo, Express and integrated with Supabase.
 
-### 🔗 [E-Commerce](https://github.com/fitrafakhri49/E-Commerece)
-**Description:** Full-stack e-commerce platform built with Next.js, Node.js, Express, and Postgres. Features product listings, shopping cart, authentication, and payment integration.
+### 🔗 [Soundscapes](https://github.com/fitrafakhri49/E-Commerece)
+**Description:** Mobile App e-commerce music album platform  built with React-native, Express, Midtranse and Supabase. Features product listings, shopping cart, authentication, and payment integration.
 
 ---
 

@@ -46,6 +46,22 @@ Currently, I'm working on personal projects, experimenting with full-stack archi
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
 
+## 🚀 Projects I’ve Worked On
+
+### 🔗 [Circle App](https://github.com/fitrafakhri49/circle-app)
+**Description:** A social networking mobile app built with React Native and Expo, allowing users to connect, share posts, and interact in a circle-based community.
+
+### 🔗 [Quick Career Coach App](https://github.com/fitrafakhri49/Quick_Career_Coach_App)
+**Description:** Mobile app providing career guidance and interview tips. Built with React Native, Node.js, and Supabase for authentication and data management.
+
+### 🔗 [FitTracker](https://github.com/fitrafakhri49/FitTracker)
+**Description:** A fitness tracking application to monitor workouts, calories, and progress. Developed using React Native, Expo, and integrated with Firebase for real-time data.
+
+### 🔗 [E-Commerce](https://github.com/fitrafakhri49/E-Commerece)
+**Description:** Full-stack e-commerce platform built with Next.js, Node.js, Express, and Postgres. Features product listings, shopping cart, authentication, and payment integration.
+
+---
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=fitrafakhri49&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=fitrafakhri49&theme=default&hide_border=true)<br/>

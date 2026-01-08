@@ -67,7 +67,5 @@ Currently, I'm working on personal projects, experimenting with full-stack archi
 ![](https://nirzak-streak-stats.vercel.app/?user=fitrafakhri49&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fitrafakhri49&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fitrafakhri49&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

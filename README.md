@@ -50,7 +50,7 @@ Currently, I'm working on personal projects, experimenting with full-stack archi
 
 ### 📱 [Circle App](https://github.com/fitrafakhri49/circle-app)
 **Description**  
-A social networking mobile application that enables users to connect, share posts, and interact within circle-based communities in real time.
+Circle App is a real-time social networking mobile application that allows users to create and join circle-based communities. Users can share posts, interact through comments and reactions, and communicate instantly using real-time features, making community engagement more dynamic and interactive.
 
 **Tech Stack**
 - React
@@ -62,7 +62,7 @@ A social networking mobile application that enables users to connect, share post
 
 ### 💼 [Quick Career Coach App](https://github.com/fitrafakhri49/Quick_Career_Coach_App)
 **Description**  
-A web application that provides career guidance through skill gap analysis and AI-powered mock interviews.
+Quick Career Coach is a web-based platform designed to help users improve their career readiness. It provides skill gap analysis, personalized career insights, and AI-powered mock interviews to support users in preparing for job applications and professional growth.
 
 **Tech Stack**
 - Next.js
@@ -74,7 +74,7 @@ A web application that provides career guidance through skill gap analysis and A
 
 ### 🏃‍♂️ [FitTracker](https://github.com/fitrafakhri49/FitTracker)
 **Description**  
-A fitness tracking mobile application to monitor workouts, calorie intake, and user progress.
+FitTracker is a mobile fitness tracking application that helps users monitor their daily workouts, calorie intake, and fitness progress over time. The app focuses on providing a simple and intuitive user experience while maintaining reliable data tracking.
 
 **Tech Stack**
 - React Native
@@ -86,13 +86,14 @@ A fitness tracking mobile application to monitor workouts, calorie intake, and u
 
 ### 🎵 [Soundscapes](https://github.com/fitrafakhri49/E-Commerece)
 **Description**  
-A mobile e-commerce platform for music albums featuring product listings, authentication, shopping cart, and secure payment integration.
+Soundscapes is a mobile e-commerce application for music albums that allows users to browse products, manage a shopping cart, authenticate securely, and complete payments seamlessly. The app is designed to deliver a smooth and user-friendly online shopping experience.
 
 **Tech Stack**
 - React Native
 - Express.js
 - Midtrans
 - Supabase
+
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=fitrafakhri49&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>

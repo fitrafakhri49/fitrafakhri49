@@ -48,52 +48,59 @@ Currently, I'm working on personal projects, experimenting with full-stack archi
 
 ## 🚀 Projects I’ve Worked On
 
-### 📱 [Circle App](https://github.com/fitrafakhri49/circle-app)
+### 📱 Circle App
+🔗 **Repository:** https://github.com/fitrafakhri49/circle-app  
+
 **Description**  
 Circle App is a real-time social networking mobile application that allows users to create and join circle-based communities. Users can share posts, interact through comments and reactions, and communicate instantly using real-time features, making community engagement more dynamic and interactive.
 
 **Tech Stack**
-- React
-- Express.js
-- Socket.io
-- PostgreSQL
+- React  
+- Express.js  
+- Socket.io  
+- PostgreSQL  
 
 ---
 
-### 💼 [Quick Career Coach App](https://github.com/fitrafakhri49/Quick_Career_Coach_App)
+### 💼 Quick Career Coach App
+🔗 **Repository:** https://github.com/fitrafakhri49/Quick_Career_Coach_App  
+
 **Description**  
 Quick Career Coach is a web-based platform designed to help users improve their career readiness. It provides skill gap analysis, personalized career insights, and AI-powered mock interviews to support users in preparing for job applications and professional growth.
 
 **Tech Stack**
-- Next.js
-- Express.js
-- Supabase
-- Gemini AI
+- Next.js  
+- Express.js  
+- Supabase  
+- Gemini AI  
 
 ---
 
-### 🏃‍♂️ [FitTracker](https://github.com/fitrafakhri49/FitTracker)
+### 🏃‍♂️ FitTracker
+🔗 **Repository:** https://github.com/fitrafakhri49/FitTracker  
+
 **Description**  
 FitTracker is a mobile fitness tracking application that helps users monitor their daily workouts, calorie intake, and fitness progress over time. The app focuses on providing a simple and intuitive user experience while maintaining reliable data tracking.
 
 **Tech Stack**
-- React Native
-- Expo
-- Express.js
-- Supabase
+- React Native  
+- Expo  
+- Express.js  
+- Supabase  
 
 ---
 
-### 🎵 [Soundscapes](https://github.com/fitrafakhri49/E-Commerece)
+### 🎵 Soundscapes
+🔗 **Repository:** https://github.com/fitrafakhri49/E-Commerece  
+
 **Description**  
 Soundscapes is a mobile e-commerce application for music albums that allows users to browse products, manage a shopping cart, authenticate securely, and complete payments seamlessly. The app is designed to deliver a smooth and user-friendly online shopping experience.
 
 **Tech Stack**
-- React Native
-- Express.js
-- Midtrans
-- Supabase
-
+- React Native  
+- Express.js  
+- Midtrans  
+- Supabase  
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=fitrafakhri49&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>

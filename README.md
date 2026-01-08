@@ -48,19 +48,51 @@ Currently, I'm working on personal projects, experimenting with full-stack archi
 
 ## 🚀 Projects I’ve Worked On
 
-### 🔗 [Circle App](https://github.com/fitrafakhri49/circle-app)
-**Description:** A social networking mobile app built with React, Express, Socket.io, and Postgresql allowing users to connect, share posts, and interact in a circle-based community in real-time.
+### 📱 [Circle App](https://github.com/fitrafakhri49/circle-app)
+**Description**  
+A social networking mobile application that enables users to connect, share posts, and interact within circle-based communities in real time.
 
-### 🔗 [Quick Career Coach App](https://github.com/fitrafakhri49/Quick_Career_Coach_App)
-**Description:** Web app providing career guidance Skill Gap Analysis and mock interview. Built with Next.JS, Express.js,Supabase and Gemini AI.
-
-### 🔗 [FitTracker](https://github.com/fitrafakhri49/FitTracker)
-**Description:** A fitness tracking application to monitor workouts, calories, and progress. Developed using React Native, Expo, Express and integrated with Supabase.
-
-### 🔗 [Soundscapes](https://github.com/fitrafakhri49/E-Commerece)
-**Description:** Mobile App e-commerce music album platform  built with React-native, Express, Midtranse and Supabase. Features product listings, shopping cart, authentication, and payment integration.
+**Tech Stack**
+- React
+- Express.js
+- Socket.io
+- PostgreSQL
 
 ---
+
+### 💼 [Quick Career Coach App](https://github.com/fitrafakhri49/Quick_Career_Coach_App)
+**Description**  
+A web application that provides career guidance through skill gap analysis and AI-powered mock interviews.
+
+**Tech Stack**
+- Next.js
+- Express.js
+- Supabase
+- Gemini AI
+
+---
+
+### 🏃‍♂️ [FitTracker](https://github.com/fitrafakhri49/FitTracker)
+**Description**  
+A fitness tracking mobile application to monitor workouts, calorie intake, and user progress.
+
+**Tech Stack**
+- React Native
+- Expo
+- Express.js
+- Supabase
+
+---
+
+### 🎵 [Soundscapes](https://github.com/fitrafakhri49/E-Commerece)
+**Description**  
+A mobile e-commerce platform for music albums featuring product listings, authentication, shopping cart, and secure payment integration.
+
+**Tech Stack**
+- React Native
+- Express.js
+- Midtrans
+- Supabase
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=fitrafakhri49&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>

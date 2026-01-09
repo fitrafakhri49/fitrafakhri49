@@ -50,8 +50,24 @@ Currently, I'm working on personal projects, experimenting with full-stack archi
 ### 📱 Circle App
 🔗 **Repository:** https://github.com/fitrafakhri49/circle-app  
 
-**Description**  
-Circle App is a real-time social networking mobile application that allows users to create and join circle-based communities. Users can share posts, interact through comments and reactions, and communicate instantly using real-time features, making community engagement more dynamic and interactive.
+**Overview**  
+Circle App is a real-time social networking mobile application that enables users to create and join community-based circles. It focuses on fast interactions, live communication, and scalable backend architecture to support active communities.
+
+**Key Features**
+- Real-time posts, comments, and reactions  
+- Live communication using WebSocket  
+- Secure authentication and role-based access  
+
+**My Role**
+- Designed and implemented RESTful APIs  
+- Integrated real-time communication using Socket.io  
+- Designed database schema and optimized queries  
+- Handled frontend–backend integration  
+
+**Impact**
+- Enabled low-latency real-time interactions  
+- Improved user engagement through instant updates  
+- Built a scalable foundation for future feature expansion  
 
 **Tech Stack**
 - React  
@@ -64,8 +80,23 @@ Circle App is a real-time social networking mobile application that allows users
 ### 💼 Quick Career Coach App
 🔗 **Repository:** https://github.com/fitrafakhri49/Quick_Career_Coach_App  
 
-**Description**  
-Quick Career Coach is a web-based platform designed to help users improve their career readiness. It provides skill gap analysis, personalized career insights, and AI-powered mock interviews to support users in preparing for job applications and professional growth.
+**Overview**  
+Quick Career Coach is a web-based platform that helps users improve career readiness through skill gap analysis and AI-powered mock interviews.
+
+**Key Features**
+- Skill gap analysis and career recommendations  
+- AI-powered mock interview simulations  
+- Secure authentication and data handling  
+
+**My Role**
+- Developed full-stack features using Next.js and Express  
+- Integrated Gemini AI for interview and analysis  
+- Designed authentication and backend API logic  
+
+**Impact**
+- Delivered personalized career insights  
+- Automated interview preparation using AI  
+- Improved maintainability with clean architecture  
 
 **Tech Stack**
 - Next.js  
@@ -78,8 +109,23 @@ Quick Career Coach is a web-based platform designed to help users improve their 
 ### 🏃‍♂️ FitTracker
 🔗 **Repository:** https://github.com/fitrafakhri49/FitTracker  
 
-**Description**  
-FitTracker is a mobile fitness tracking application that helps users monitor their daily workouts, calorie intake, and fitness progress over time. The app focuses on providing a simple and intuitive user experience while maintaining reliable data tracking.
+**Overview**  
+FitTracker is a mobile fitness tracking application designed to help users monitor workouts, calorie intake, and progress over time.
+
+**Key Features**
+- Daily workout and calorie tracking  
+- Progress visualization  
+- Cloud-based data storage  
+
+**My Role**
+- Built mobile UI using React Native and Expo  
+- Developed backend APIs for activity tracking  
+- Integrated Supabase authentication and database  
+
+**Impact**
+- Helped users maintain consistent fitness routines  
+- Delivered a responsive and intuitive mobile experience  
+- Ensured reliable data persistence  
 
 **Tech Stack**
 - React Native  
@@ -92,14 +138,30 @@ FitTracker is a mobile fitness tracking application that helps users monitor the
 ### 🎵 Soundscapes
 🔗 **Repository:** https://github.com/fitrafakhri49/E-Commerece  
 
-**Description**  
-Soundscapes is a mobile e-commerce application for music albums that allows users to browse products, manage a shopping cart, authenticate securely, and complete payments seamlessly. The app is designed to deliver a smooth and user-friendly online shopping experience.
+**Overview**  
+Soundscapes is a mobile e-commerce application for music albums, providing a seamless shopping and payment experience.
+
+**Key Features**
+- Product catalog and shopping cart  
+- Secure authentication  
+- Online payment integration  
+
+**My Role**
+- Developed core mobile application features  
+- Implemented backend services and business logic  
+- Integrated Midtrans payment gateway  
+
+**Impact**
+- Enabled smooth end-to-end e-commerce flow  
+- Improved transaction reliability and user trust  
+- Enhanced overall user experience  
 
 **Tech Stack**
 - React Native  
 - Express.js  
 - Midtrans  
 - Supabase  
+
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=fitrafakhri49&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
